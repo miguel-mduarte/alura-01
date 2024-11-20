@@ -1,1 +1,8 @@
+gemini
 AIzaSyDVrCOA-SX1tQRpvssgU5JdAtnKzoo5srk
+
+mongoDB:
+miguel-mduarte
+M1gu3li2e45@
+
+mongodb+srv://miguel-mduarte:<M1gu3li2e45@>@cluster0.cxdxp.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
